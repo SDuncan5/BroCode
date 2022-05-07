@@ -20,7 +20,7 @@ public class JavaLabels {
         label.setVerticalTextPosition(JLabel.TOP);  //set text TOP, CENTER, BOTTOM of imageicon
         label.setForeground(new Color(0x000000)); //set font color of text
         //or label.setForeground(new Color(0,0,0));
-        label.setFont(new Font("MV Boli", Font.PLAIN, 50)); //set font of text
+        label.setFont(new Font("Comic Sans MS", Font.PLAIN, 50)); //set font of text
         label.setIconTextGap(10); //set gap of text to image
         //can also set this to neg number to pull it closer
         label.setBackground(new Color(0x666d6b)); //set background color
