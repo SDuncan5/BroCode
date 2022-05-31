@@ -10,7 +10,7 @@ public class CustomExceptions {
 
         // user defined exceptions = custom exceptions
         // ex.DuplicateEmail, InvalidCreditException, AgeException
-
+        System.out.println("SARAH IS STINKY AND CRINGE LMAO");
         Scanner scan = new Scanner(System.in);
 
         System.out.println("Enter your age: ");
